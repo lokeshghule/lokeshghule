@@ -42,5 +42,7 @@ You can click the Preview link to take a look at your changes.
     </tr>
 </table>
 
+<!---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lokeshghule)](https://git.io/streak-stats)
+-->
 

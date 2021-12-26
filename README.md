@@ -43,6 +43,12 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lokeshghule)](https://git.io/streak-stats)
+<table>
+  <tr>
+    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshghule&theme=radical" />
+</td>
+   
+  </tr>
+</table>
 
 
